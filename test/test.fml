@@ -1,0 +1,14 @@
+STRING: something
+BOOL: true
+NUMBER: 2.3
+LIST: [
+    "   ", 
+    0.424,
+    [
+        144.03,
+        [
+            false
+        ],
+        true
+    ]
+]
